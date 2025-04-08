@@ -5,15 +5,14 @@
 
 
 
-# 📺 RedFlix – Netflix Clone with DevSecOps Deployment
+# 📺 RedFlix – Netflix Clone with DevOps Deployment
 
-A full-stack movie streaming clone inspired by Netflix, built using **React.js**, and deployed to **AWS** using a **DevSecOps** approach with tools like **Jenkins**, **Terraform**, **Docker**, and **SonarQube**.
+A full-stack movie streaming clone inspired by Netflix, built using **React.js**, and deployed to **AWS** using a **DevOps** approach with tools like **Jenkins**, **Terraform**, **Docker**, and **SonarQube**.
 
 ---
 
 ## 🚀 Live Demo  
-🔗 [Add your live link here]  
-*(If deployed, this gives recruiters a clickable way to see your work in action)*
+🔗 https://redflix-2552c.web.app/
 
 ---
 
